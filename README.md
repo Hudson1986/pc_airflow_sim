@@ -1,2 +1,3 @@
 # pc_airflow_sim
-simulate best pc airflow
+My first application testing
+computer airflow
